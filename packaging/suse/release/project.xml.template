@@ -11,11 +11,11 @@
     <path project="devel:languages:nodejs" repository="openSUSE_Leap_15.1"/>
     <arch>x86_64</arch>
   </repository>
-  <repository name="openSUSE_Leap_15.0">
-    <path project="openSUSE:Leap:15.0" repository="standard"/>
-    <path project="devel:languages:go" repository="openSUSE_Leap_15.0"/>
-    <path project="devel:languages:ruby" repository="openSUSE_Leap_15.0"/>
-    <path project="devel:languages:nodejs" repository="openSUSE_Leap_15.0"/>
+  <repository name="openSUSE_Leap_15.2">
+    <path project="openSUSE:Leap:15.2" repository="standard"/>
+    <path project="devel:languages:go" repository="openSUSE_Leap_15.2"/>
+    <path project="devel:languages:ruby" repository="openSUSE_Leap_15.2"/>
+    <path project="devel:languages:nodejs" repository="openSUSE_Leap_15.2"/>
     <arch>x86_64</arch>
   </repository>
   <repository name="CaaSP_SLE_12_SP3">
